@@ -1,0 +1,52 @@
+
+
+.logoL{
+	color: #a5a5af;
+	margin-bottom: 20px;
+	margin-top: 10px;
+	margin: 0 25px;
+}
+
+ul li .naviL{
+	color: #fff;
+	font-size: 15px;
+}
+
+ul li .naviL:hover{
+	color: #77c9d4;
+}
+
+ul li .logout{
+	color: #fff;
+	font-size: 26px;
+	position: relative;
+	left: 70px;
+}
+
+ul li .logout:hover{
+	color: #ff4c4c;
+}
+
+.profle{
+	display:block;
+	height: 100px;
+	border-radius: 50%;
+	width: 100px;
+	margin: 5px 25px;
+}
+
+.name{
+	color: #fff;
+	margin: 10px 0 5px;
+}
+
+.poste{
+	color: rgb(206, 240, 253);
+	font-size: 14px;
+	text-align: center;
+}
+
+.mb-sm-auto{
+	margin-top: 20px;
+}
+

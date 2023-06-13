@@ -1,0 +1,57 @@
+
+.pos{
+  position: relative;
+}
+
+.back{
+  width: 100%;
+  padding: 4.41%;
+  background-size: cover;
+}
+
+.button {
+  background-color: #6056ff;
+  border: 1px solid #6056ff;
+  border-radius: .25rem;
+  box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  justify-content: center;
+  line-height: 1.25;
+  padding: calc(.800rem - 1px) calc(1.5rem - 1px);
+  margin-left: 160px;
+  width: 35%;
+  transition: 0.3s;
+  margin-top:10px;
+}
+
+.button:hover{
+  background-color: #bda8ff;
+  border: 1px solid #bda8ff;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bg{
+  width: 100%;
+  background-size: cover;
+}
+

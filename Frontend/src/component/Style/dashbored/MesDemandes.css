@@ -1,0 +1,66 @@
+.editable-cell {
+  position: relative;
+}
+
+.editable-cell-value-wrap {
+  padding: 5px 12px;
+  cursor: pointer;
+}
+
+.editable-row:hover .editable-cell-value-wrap {
+  padding: 4px 11px;
+  border: 1px solid #d9d9d9;
+  border-radius: 2px;
+}
+
+[data-theme='dark'] .editable-row:hover .editable-cell-value-wrap {
+  border: 1px solid #434343;
+}
+
+.titleH{
+  margin-bottom: 40px;
+}
+
+.ant-table-pagination.ant-pagination{
+  display: none;
+}
+
+
+
+.buttonRH {
+  position:relative;
+  background: #FF4742;
+  border: 1px solid #FF4742;
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 800;
+  line-height: 12px;
+  min-height: 20px;
+  outline: 0;
+  padding: 6px 7px;
+  text-align: center;
+  text-rendering: geometricprecision;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  border-radius: 20px;
+  left: 10px;
+}
+
+.buttonRH:hover,
+.buttonRH:active {
+  background-color: initial;
+  background-position: 0 0;
+  color: #FF4742;
+}
+
+.buttonRH:active {
+  opacity: .5;
+}
+
